@@ -1,0 +1,1 @@
+# ELK-Firefox-logs-ingestion
